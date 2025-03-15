@@ -5,17 +5,17 @@ export const products: Product[] = [
     id: 1,
     name: "iPhone 14 Pro Max",
     price: 64999,
-    image: "https://images.unsplash.com/photo-1678652197831-2d180705cd2c?w=800&auto=format&fit=crop&q=80"
+    image: "https://cdn.cimri.io/image/1200x1200/apple-iphone-14-pro-max-128gb-altin_655424774.jpg"
   },
   {
     id: 2,
     name: "MacBook Pro M2",
     price: 72499,
-    image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCI2zT2yPdjJ3m_qv-vLKNpaD575h2WCbOkw&s"
   },
   {
     id: 3,
-    name: "iPad Pro 12.9",
+    name: "iPad Pro 12",
     price: 35999,
     image: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&auto=format&fit=crop&q=80"
   },
